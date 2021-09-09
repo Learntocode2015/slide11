@@ -3,7 +3,7 @@ package com.company;
 import java.util.Scanner;
 
 public class Main {
-
+    //finding if a number is true or false
     public static void main(String[] args) {
          System.out.println(TrueOrFalseNum(UserNumberChoice()));
     }
